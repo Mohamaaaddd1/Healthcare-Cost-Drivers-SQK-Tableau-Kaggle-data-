@@ -43,8 +43,30 @@ Tableau (interactive dashboarding, KPI cards, maps, bar/line/scatter plots)
 GitHub (documentation & version control)
 
 ## 📈 Results:
-Smokers pay ~2–3x more than non-smokers.
-Healthcare costs rise steeply after age 50.
-Obese patients average significantly higher charges.
-Family size modestly affects costs.
-Regional differences are present, with the Southeast showing higher averages.
+Population Overview (KPIs)
+
+* The average medical cost per person is $X,XXX, with charges ranging from $MIN to $MAX.
+
+* The standard deviation of ~$Y,YYY indicates wide variability in patient expenses, suggesting high-risk outliers.
+
+Lifestyle Factors
+
+* Smokers pay Z% more on average than non-smokers, making smoking the strongest individual cost driver.
+
+* Obese patients (BMI ≥ 30) spend $X,XXX more on average compared to those with a healthy BMI range (18.5–24.9).
+
+Age & Life Stage
+
+* Costs increase gradually in early adulthood but accelerate after age 50, peaking in the senior group (60+).
+
+* The middle-age group (45–59) shows the steepest rise in average charges, signaling the onset of chronic conditions.
+
+Family Burden
+
+* Families with children tend to spend more, though the increase is not linear — e.g., costs plateau beyond 3+ children, suggesting risk-sharing within households.
+
+Regional Disparities
+
+* The Southeast records the highest average charges, likely due to higher prevalence of obesity and smoking.
+
+* The Northeast shows comparatively lower charges, reflecting possible differences in healthcare access or lifestyle factors.
