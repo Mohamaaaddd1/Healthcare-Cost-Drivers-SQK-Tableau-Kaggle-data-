@@ -1,2 +1,2 @@
-# Online-Retail-Sales-Analysis-SQL-Tableau-
-Analyzed 240 online transactions using SQL (CTEs, window functions, CASE, date logic) to uncover revenue trends, top products, regional KPIs, and payment mix. Built Tableau dashboards to visualize insights and support data-driven decisions.
+# US Medical Healthcare Cost Drivers: SQL + Tableau Case Study
+This project explores individual-level healthcare costs using SQL and Tableau, based on a U.S. medical insurance dataset. The goal is to identify key cost drivers (age, smoking, obesity, family size, and geography) and communicate insights with a healthcare-analytics-ready dashboard. The data includes 1338 rows along with 7 columns.
