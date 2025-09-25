@@ -39,8 +39,9 @@ How do population-level KPIs help summarize overall risk?
 
 ## 🛠️ Tools Used:
 SQL (aggregation, grouping, CTEs, KPIs, CASE statements)
+
 Tableau (interactive dashboarding, KPI cards, maps, bar/line/scatter plots)
-GitHub (documentation & version control)
+
 
 ## 📈 Results:
 Population Overview (KPIs)
