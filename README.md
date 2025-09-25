@@ -10,3 +10,10 @@ Are there regional disparities in average costs?
 ## Tools Used:
 SQL for aggregation, grouping, and exploratory analysis.
 Tableau for an interactive dashboard highlighting cost drivers.
+
+## Results:
+Smokers pay ~2–3x more than non-smokers.
+Healthcare costs rise steeply after age 50.
+Obese patients average significantly higher charges.
+Family size modestly affects costs.
+Regional differences are present, with the Southeast showing higher averages.
