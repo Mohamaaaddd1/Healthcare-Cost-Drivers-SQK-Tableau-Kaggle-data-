@@ -2,6 +2,17 @@
 This project explores the drivers of individual healthcare costs using a U.S. insurance dataset. SQL is used to perform in-depth analytics with Common Table Expressions (CTEs) and Key Performance Indicators (KPIs), while Tableau brings the findings to life with an interactive dashboard.
 
 The analysis highlights how lifestyle choices (smoking, BMI), demographics (age, dependents, sex), and geography (region) influence medical costs. This mirrors the type of work done in healthcare analytics, insurance risk assessment, and policy planning.
+
+## 🎯 Objectives
+
+* Apply SQL for healthcare data analysis with CTEs and KPIs.
+
+* Identify key cost drivers of medical charges.
+
+* Create visual storytelling with Tableau to support healthcare decision-making.
+
+* Build a portfolio-ready project demonstrating technical and business-relevant skills.
+
 ## ❓ Key Questions Answered:
 What lifestyle factors are the biggest cost drivers in healthcare?
 
@@ -37,11 +48,6 @@ How do population-level KPIs help summarize overall risk?
 
 * How much variation (std. dev) exists in patient costs?
 
-## 🛠️ Tools Used:
-SQL (aggregation, grouping, CTEs, KPIs, CASE statements)
-
-Tableau (interactive dashboarding, KPI cards, maps, bar/line/scatter plots)
-
 
 ## 📈 Results:
 Population Overview (KPIs)
@@ -73,3 +79,11 @@ Regional Disparities
 * The Southeast records the highest average charges, likely due to higher prevalence of obesity and smoking.
 
 * The Northeast shows comparatively lower charges, reflecting possible differences in healthcare access or lifestyle factors.
+
+
+## 🛠️ Tools Used:
+* SQL (aggregation, grouping, CTEs, KPIs, CASE statements)
+
+* Tableau (interactive dashboarding, KPI cards, maps, bar/line/scatter plots)
+
+* Github (project documentation & version control)
