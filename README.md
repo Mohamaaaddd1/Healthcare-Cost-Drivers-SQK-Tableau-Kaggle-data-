@@ -5,13 +5,13 @@ The analysis highlights how lifestyle choices (smoking, BMI), demographics (age,
 
 ## 🎯 Objectives
 
-* Apply SQL for healthcare data analysis with CTEs and KPIs.
+Apply SQL for healthcare data analysis with CTEs and KPIs.
 
-* Identify key cost drivers of medical charges.
+Identify key cost drivers of medical charges.
 
-* Create visual storytelling with Tableau to support healthcare decision-making.
+Create visual storytelling with Tableau to support healthcare decision-making.
 
-* Build a portfolio-ready project demonstrating technical and business-relevant skills.
+Build a portfolio-ready project demonstrating technical and business-relevant skills.
 
 ## ❓ Key Questions Answered:
 What lifestyle factors are the biggest cost drivers in healthcare?
