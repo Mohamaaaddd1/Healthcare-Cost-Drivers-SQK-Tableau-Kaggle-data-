@@ -82,8 +82,21 @@ Regional Disparities
 
 
 ## 🛠️ Tools Used:
-* SQL (aggregation, grouping, CTEs, KPIs, CASE statements)
+SQL (aggregation, grouping, CTEs, KPIs, CASE statements)
 
-* Tableau (interactive dashboarding, KPI cards, maps, bar/line/scatter plots)
+Tableau (interactive dashboarding, KPI cards, maps, bar/line/scatter plots)
 
-* Github (project documentation & version control)
+Github (project documentation & version control)
+
+
+## 💡 Why This Project Matters
+
+Healthcare organizations, insurers, and policymakers need to understand the drivers of rising medical costs. By applying SQL + Tableau to patient-level data, this project simulates real-world analytics used to:
+
+Design insurance pricing models
+
+Identify high-risk populations
+
+Support preventive health interventions
+
+For employers, this project demonstrates data storytelling, SQL fluency, and dashboard creation skills — directly applicable to healthcare analytics, actuarial analysis, and risk management roles.
